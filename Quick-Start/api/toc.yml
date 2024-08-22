@@ -1,0 +1,15 @@
+### YamlMime:TableOfContent
+items:
+- uid: Quick_Start
+  name: Quick_Start
+  items:
+  - uid: Quick_Start.Program
+    name: Program
+  - uid: Quick_Start.WeatherForecast
+    name: WeatherForecast
+- uid: Quick_Start.Controllers
+  name: Quick_Start.Controllers
+  items:
+  - uid: Quick_Start.Controllers.WeatherForecastController
+    name: WeatherForecastController
+memberLayout: SamePage

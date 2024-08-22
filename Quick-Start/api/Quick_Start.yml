@@ -1,0 +1,30 @@
+### YamlMime:ManagedReference
+items:
+- uid: Quick_Start
+  commentId: N:Quick_Start
+  id: Quick_Start
+  children:
+  - Quick_Start.Program
+  - Quick_Start.WeatherForecast
+  langs:
+  - csharp
+  - vb
+  name: Quick_Start
+  nameWithType: Quick_Start
+  fullName: Quick_Start
+  type: Namespace
+  assemblies:
+  - Quick-Start
+references:
+- uid: Quick_Start.Program
+  commentId: T:Quick_Start.Program
+  href: Quick_Start.Program.html
+  name: Program
+  nameWithType: Program
+  fullName: Quick_Start.Program
+- uid: Quick_Start.WeatherForecast
+  commentId: T:Quick_Start.WeatherForecast
+  href: Quick_Start.WeatherForecast.html
+  name: WeatherForecast
+  nameWithType: WeatherForecast
+  fullName: Quick_Start.WeatherForecast

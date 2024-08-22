@@ -1,0 +1,14 @@
+{
+  "Quick_Start": "Quick_Start.yml",
+  "Quick_Start.Controllers": "Quick_Start.Controllers.yml",
+  "Quick_Start.Controllers.WeatherForecastController": "Quick_Start.Controllers.WeatherForecastController.yml",
+  "Quick_Start.Controllers.WeatherForecastController.#ctor(Microsoft.Extensions.Logging.ILogger{Quick_Start.Controllers.WeatherForecastController})": "Quick_Start.Controllers.WeatherForecastController.yml",
+  "Quick_Start.Controllers.WeatherForecastController.Get": "Quick_Start.Controllers.WeatherForecastController.yml",
+  "Quick_Start.Program": "Quick_Start.Program.yml",
+  "Quick_Start.Program.Main(System.String[])": "Quick_Start.Program.yml",
+  "Quick_Start.WeatherForecast": "Quick_Start.WeatherForecast.yml",
+  "Quick_Start.WeatherForecast.Date": "Quick_Start.WeatherForecast.yml",
+  "Quick_Start.WeatherForecast.Summary": "Quick_Start.WeatherForecast.yml",
+  "Quick_Start.WeatherForecast.TemperatureC": "Quick_Start.WeatherForecast.yml",
+  "Quick_Start.WeatherForecast.TemperatureF": "Quick_Start.WeatherForecast.yml"
+}
