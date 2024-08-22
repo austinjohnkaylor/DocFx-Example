@@ -1,0 +1,6 @@
+@Quick_Start_HostAddress = http://localhost:5080
+
+GET {{Quick_Start_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
