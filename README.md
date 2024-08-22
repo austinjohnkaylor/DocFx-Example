@@ -1,2 +1,2 @@
 # DocFx-Example
-Showcases what DocFx can do
+Showcases what [DocFx](https://dotnet.github.io/docfx/index.html) can do
