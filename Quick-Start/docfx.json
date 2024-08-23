@@ -16,6 +16,11 @@
     "markdownEngineProperties": {
       "alerts": {
         "TODO": "alert alert-secondary"
+      },
+      "plantUml": {
+        "outputFormat": "svg",
+        "remoteUrl": "http://www.plantuml.com/plantuml/",
+        "renderingMode": "remote"
       }
     },
     "content": [
